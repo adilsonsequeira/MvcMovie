@@ -13,6 +13,7 @@ namespace MvcMovie
     public class Program
     {
         //teste
+        //Novas alterações
         public static void Main(string[] args)
         {
             BuildWebHost(args).Run();
