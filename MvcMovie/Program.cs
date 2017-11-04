@@ -14,6 +14,7 @@ namespace MvcMovie
     {
         //teste
         //Novas alterações 2
+        //Add DB
         public static void Main(string[] args)
         {
             BuildWebHost(args).Run();
